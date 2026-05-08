@@ -1,6 +1,6 @@
-# mexpense
+# app-development-boot-camp-may-2026
 
-A new Flutter project.
+A new Flutter project for MExpense tracker.
 
 ## Getting Started
 

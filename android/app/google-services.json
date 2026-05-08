@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988022498806",
+    "firebase_url": "https://fir-fd5a8-default-rtdb.firebaseio.com",
+    "project_id": "fir-fd5a8",
+    "storage_bucket": "fir-fd5a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988022498806:android:b1b44d9b6a437d0b4513d7",
+        "android_client_info": {
+          "package_name": "com.example.mexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988022498806-2gr2rftfo0nlhm37lp3esrb69n17uvf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mexpense",
+            "certificate_hash": "55d9a6006424899f00907d7a9db937f2ebf23787"
+          }
+        },
+        {
+          "client_id": "988022498806-d2ddfd0ldecbuc08q2dsb7c9qep2bir1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhx_i6XA3SPnMWpB1Z8lSri6mNvQnJPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988022498806-d2ddfd0ldecbuc08q2dsb7c9qep2bir1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
